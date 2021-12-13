@@ -1,7 +1,7 @@
 <a href="http://planet.lisp.org"><img src="https://th.bing.com/th/id/R.20a431e1f10c4beefeac4f4176ad77a0?rik=J9hD8shLPzFqZg&pid=ImgRaw&r=0" alt="Emacs Logo" width="80" height="80" align="right"></a>
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://www.patreon.com/DamonKwok)
 [![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
-[![GitHub license](https://img.shields.io/github/license/damon-kwok/v-mode?logo=gnu&.svg)](https://github.com/damon-kwok/awesome-lisp-family/blob/master/COPYING)
+[![GitHub license](https://img.shields.io/badge/license-BSD%202%20Clause-2e8b57.svg)](https://github.com/damon-kwok/awesome-lisp-family/blob/main/COPYING)
 [![Sponsor](https://img.shields.io/badge/Support%20Me-%F0%9F%92%97-ff69b4.svg)](https://www.patreon.com/DamonKwok)
 
 # Awesome LISP Family
@@ -150,20 +150,20 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [PicoLisp](https://picolisp.com)                       | [![last-commit](https://img.shields.io/github/last-commit/picolisp/picolisp.svg)](https://github.com/picolisp/picolisp) | B    |        |
 
 ### JavaScript
-| Name                                                         | Active                                                                                                                                    | Type |   |
-|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------|---|
-| [BiwaScheme](https://www.biwascheme.org/)                    | [![last-commit](https://img.shields.io/github/last-commit/biwascheme/biwascheme.svg)](https://github.com/biwascheme/biwascheme)           | S    |   |
-| [ClojureScript](https://clojurescript.org/)                  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojurescript.svg)](https://github.com/clojure/clojurescript)           | C    |   |
-| [eslisp](https://github.com/anko/eslisp)                     | [![last-commit](https://img.shields.io/github/last-commit/anko/eslisp.svg)](https://github.com/anko/eslisp)                               | A    |   |
-| [JACL](https://tailrecursion.com/JACL/)                      |                                                                                                                                           | L    |   |
-| [JSLisp](https://www.jslisp.org)                             | [![last-commit](https://img.shields.io/github/last-commit/6502/JSLisp.svg)](https://github.com/6502/JSLisp)                               | L    |   |
-| [LIPS](https://lips.js.org)                                  | [![last-commit](https://img.shields.io/github/last-commit/jcubic/lips.svg)](https://github.com/jcubic/lips)                               | S    |   |
-| [Lumen](https://github.com/sctb/lumen)                       | [![last-commit](https://img.shields.io/github/last-commit/sctb/lumen.svg)](https://github.com/sctb/lumen)                                 | A    |   |
-| [Parenscript](https://common-lisp.net/project/parenscript/)  | [![last-commit](https://img.shields.io/github/last-commit/ska80/parenscript.svg)](https://gitlab.common-lisp.net/parenscript/parenscript) | L    |   |
-| [RacketScript](https://github.com/racketscript/racketscript) | [![last-commit](https://img.shields.io/github/last-commit/racketscript/racketscript.svg)](https://github.com/racketscript/racketscript)   | S    |   |
-| [Valtan](https://github.com/cxxxr/valtan)                    | [![last-commit](https://img.shields.io/github/last-commit/cxxxr/valtan.svg)](https://github.com/cxxxr/valtan)                             | L    |   |
-| [Whalesong](https://www.hashcollision.org/whalesong/)        | [![last-commit](https://img.shields.io/github/last-commit/dyoo/whalesong.svg)](https://github.com/dyoo/whalesong)                         | S    |   |
-| [Wisp](https://github.com/Gozala/wisp)                       | [![last-commit](https://img.shields.io/github/last-commit/Gozala/wisp.svg)](https://github.com/Gozala/wisp)                               | C    |   |
+| Name                                                         | Active                                                                                                                                    | Type | Target |
+|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [BiwaScheme](https://www.biwascheme.org/)                    | [![last-commit](https://img.shields.io/github/last-commit/biwascheme/biwascheme.svg)](https://github.com/biwascheme/biwascheme)           | S    |        |
+| [ClojureScript](https://clojurescript.org/)                  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojurescript.svg)](https://github.com/clojure/clojurescript)           | C    |        |
+| [eslisp](https://github.com/anko/eslisp)                     | [![last-commit](https://img.shields.io/github/last-commit/anko/eslisp.svg)](https://github.com/anko/eslisp)                               | A    |        |
+| [JACL](https://tailrecursion.com/JACL/)                      |                                                                                                                                           | L    |        |
+| [JSLisp](https://www.jslisp.org)                             | [![last-commit](https://img.shields.io/github/last-commit/6502/JSLisp.svg)](https://github.com/6502/JSLisp)                               | L    |        |
+| [LIPS](https://lips.js.org)                                  | [![last-commit](https://img.shields.io/github/last-commit/jcubic/lips.svg)](https://github.com/jcubic/lips)                               | S    |        |
+| [Lumen](https://github.com/sctb/lumen)                       | [![last-commit](https://img.shields.io/github/last-commit/sctb/lumen.svg)](https://github.com/sctb/lumen)                                 | A    |        |
+| [Parenscript](https://common-lisp.net/project/parenscript/)  | [![last-commit](https://img.shields.io/github/last-commit/ska80/parenscript.svg)](https://gitlab.common-lisp.net/parenscript/parenscript) | L    |        |
+| [RacketScript](https://github.com/racketscript/racketscript) | [![last-commit](https://img.shields.io/github/last-commit/racketscript/racketscript.svg)](https://github.com/racketscript/racketscript)   | S    |        |
+| [Valtan](https://github.com/cxxxr/valtan)                    | [![last-commit](https://img.shields.io/github/last-commit/cxxxr/valtan.svg)](https://github.com/cxxxr/valtan)                             | L    |        |
+| [Whalesong](https://www.hashcollision.org/whalesong/)        | [![last-commit](https://img.shields.io/github/last-commit/dyoo/whalesong.svg)](https://github.com/dyoo/whalesong)                         | S    |        |
+| [Wisp](https://github.com/Gozala/wisp)                       | [![last-commit](https://img.shields.io/github/last-commit/Gozala/wisp.svg)](https://github.com/Gozala/wisp)                               | C    |        |
 
 ### Julia
 | Name                                                     | Active                                                                                                                        | Type | Target |
