@@ -211,12 +211,13 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [llr](https://github.com/dirkschumacher/llr) | [![last-commit](https://img.shields.io/github/last-commit/dirkschumacher/llr.svg)](https://github.com/dirkschumacher/llr) | C    |        |
 
 ### Rust
-| Name                                               | Active                                                                                                                          | Type | Target |
-|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [BLisp](https://ytakano.github.io/blisp/)          | [![last-commit](https://img.shields.io/github/last-commit/ytakano/blisp.svg)](https://github.com/ytakano/blisp)                 | B    |        |
-| [GameLisp](https://gamelisp.rs)                    | [![last-commit](https://img.shields.io/github/last-commit/fleabitdev/glsp.svg)](https://github.com/fleabitdev/glsp)             | B    |        |
-| [Ketos](https://github.com/murarth/ketos)          | [![last-commit](https://img.shields.io/github/last-commit/murarth/ketos.svg)](https://github.com/murarth/ketos)                 | B    |        |
-| [Rustly](https://github.com/timothypratley/rustly) | [![last-commit](https://img.shields.io/github/last-commit/timothypratley/rustly.svg)](https://github.com/timothypratley/rustly) | C    |        |
+| Name                                                 | Active                                                                                                                          | Type | Target |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [BLisp](https://ytakano.github.io/blisp/)            | [![last-commit](https://img.shields.io/github/last-commit/ytakano/blisp.svg)](https://github.com/ytakano/blisp)                 | B    |        |
+| [GameLisp](https://gamelisp.rs)                      | [![last-commit](https://img.shields.io/github/last-commit/fleabitdev/glsp.svg)](https://github.com/fleabitdev/glsp)             | B    |        |
+| [Ketos](https://github.com/murarth/ketos)            | [![last-commit](https://img.shields.io/github/last-commit/murarth/ketos.svg)](https://github.com/murarth/ketos)                 | B    |        |
+| [Rustly](https://github.com/timothypratley/rustly)   | [![last-commit](https://img.shields.io/github/last-commit/timothypratley/rustly.svg)](https://github.com/timothypratley/rustly) | C    |        |
+| [ClojureRS](https://github.com/clojure-rs/ClojureRS) | [![last-commit](https://img.shields.io/github/last-commit/clojure-rs/ClojureRS.svg)](https://github.com/clojure-rs/ClojureRS)   | C    |        |
 
 ### Shell
 | Name                                             | Active                                                                                                                    | Type | Target |
