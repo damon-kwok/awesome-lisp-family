@@ -35,6 +35,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 <!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Multi Lang](#multi-lang)
+- [Cobol](#cobol)
 - [Common Lisp](#common-lisp)
 - [Scheme](#scheme)
 - [C/C++](#cc)
@@ -69,6 +70,11 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 | [Shen](https://shen-language.github.io/)                       | [![last-commit](https://img.shields.io/github/last-commit/Shen-Language/shen-cl.svg)](https://github.com/Shen-Language/shen-cl) | B    |        |
 | [Wax](https://github.com/LingDong-/wax)                        | [![last-commit](https://img.shields.io/github/last-commit/LingDong-/wax.svg)](https://github.com/LingDong-/wax)                 | *    |        |
 | [Zick Standard Lisp](https://github.com/zick/ZickStandardLisp) | [![last-commit](https://img.shields.io/github/last-commit/zick/ZickStandardLisp.svg)](https://github.com/zick/ZickStandardLisp) | ?    |        |
+
+### Cobol
+| Name                                         | Active                                                                                                                  | Type | Target |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Cisp](https://github.com/lauryndbrown/Cisp) | [![last-commit](https://img.shields.io/github/last-commit/lauryndbrown/Cisp.svg)](https://github.com/lauryndbrown/Cisp) | L    |        |
 
 ### Common Lisp
 | Name                                               | Active                                                                                                                            | Type | Target |
@@ -213,17 +219,17 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### Rust
 | Name                                                 | Active                                                                                                                          | Type | Target |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [ClojureRS](https://github.com/clojure-rs/ClojureRS) | [![last-commit](https://img.shields.io/github/last-commit/clojure-rs/ClojureRS.svg)](https://github.com/clojure-rs/ClojureRS)   | C    |        |
 | [BLisp](https://ytakano.github.io/blisp/)            | [![last-commit](https://img.shields.io/github/last-commit/ytakano/blisp.svg)](https://github.com/ytakano/blisp)                 | B    |        |
 | [GameLisp](https://gamelisp.rs)                      | [![last-commit](https://img.shields.io/github/last-commit/fleabitdev/glsp.svg)](https://github.com/fleabitdev/glsp)             | B    |        |
 | [Ketos](https://github.com/murarth/ketos)            | [![last-commit](https://img.shields.io/github/last-commit/murarth/ketos.svg)](https://github.com/murarth/ketos)                 | B    |        |
 | [Rustly](https://github.com/timothypratley/rustly)   | [![last-commit](https://img.shields.io/github/last-commit/timothypratley/rustly.svg)](https://github.com/timothypratley/rustly) | C    |        |
-| [ClojureRS](https://github.com/clojure-rs/ClojureRS) | [![last-commit](https://img.shields.io/github/last-commit/clojure-rs/ClojureRS.svg)](https://github.com/clojure-rs/ClojureRS)   | C    |        |
 
 ### Shell
 | Name                                             | Active                                                                                                                    | Type | Target |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Gherkin](https://github.com/alandipert/gherkin) | [![last-commit](https://img.shields.io/github/last-commit/alandipert/gherkin.svg)](https://github.com/alandipert/gherkin) | B    |        |
 | [Fleck](https://github.com/chr15m/flk/)          | [![last-commit](https://img.shields.io/github/last-commit/chr15m/flk.svg)](https://github.com/chr15m/flk)                 | A    |        |
+| [Gherkin](https://github.com/alandipert/gherkin) | [![last-commit](https://img.shields.io/github/last-commit/alandipert/gherkin.svg)](https://github.com/alandipert/gherkin) | B    |        |
 
 ### VHDL
 | Name                                            | Active                                                                                                                | Type | Target |
