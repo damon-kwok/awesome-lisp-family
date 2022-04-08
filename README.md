@@ -90,13 +90,14 @@ See list of [additional implementations](https://www.cliki.net/Common+Lisp+imple
 ### Scheme
 | Name                                                       | Active                                                                                                                                        | Type | Target |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Chez Scheme](https://www.scheme.com/)                     | [![last-commit](https://img.shields.io/github/last-commit/cisco/ChezScheme.svg)](https://github.com/cisco/ChezScheme)                         | S    |        |
-| [ChICKEN Scheme](https://www.call-cc.org/)                 | [![last-commit](https://img.shields.io/github/last-commit/spurious/chicken-core-mirror.svg)](https://github.com/spurious/chicken-core-mirror) | S    |        |
-| [Guile](https://www.gnu.org/software/guile/)               | [![last-commit](https://badgen.net/gitlab/last-commit/guile-git/guile-git?.svg)](https://gitlab.com/guile-git/guile-git)                      | S    |        |
 | [Racket](https://racket-lang.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/racket/racket.svg)](https://github.com/racket/racket)                               | S    |        |
+| [Gambit](http://gambitscheme.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/gambit/gambit.svg)](https://github.com/gambit/gambit)                               | S    |        |
+| [Guile](https://www.gnu.org/software/guile/)               | [![last-commit](https://badgen.net/gitlab/last-commit/guile-git/guile-git?.svg)](https://gitlab.com/guile-git/guile-git)                      | S    |        |
+| [Loko Scheme](https://gitlab.com/weinholt/loko)            | [![last-commit](https://badgen.net/gitlab/last-commit/weinholt/loko?.svg)](https://gitlab.com/weinholt/loko)                                  | S    |        |
+| [Chez Scheme](https://www.scheme.com/)                     | [![last-commit](https://img.shields.io/github/last-commit/cisco/ChezScheme.svg)](https://github.com/cisco/ChezScheme)                         | S    |        |
+| [CHICKEN Scheme](https://www.call-cc.org/)                 | [![last-commit](https://img.shields.io/github/last-commit/spurious/chicken-core-mirror.svg)](https://github.com/spurious/chicken-core-mirror) | S    |        |
 | [Cyclone](https://justinethier.github.io/cyclone/)         | [![last-commit](https://img.shields.io/github/last-commit/justinethier/cyclone.svg)](https://github.com/justinethier/cyclone)                 | S    |        |
 | [Microscheme](https://ryansuchocki.github.io/microscheme/) | [![last-commit](https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg)](https://github.com/ryansuchocki/microscheme)         | S    |        |
-| [Loko Scheme](https://gitlab.com/weinholt/loko)            | [![last-commit](https://badgen.net/gitlab/last-commit/weinholt/loko?.svg)](https://gitlab.com/weinholt/loko)                                  | S    |        |
 
 See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations) and [benchmarks](https://ecraven.github.io/r7rs-benchmarks/).
 
@@ -111,8 +112,8 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Extempore](https://github.com/digego/extempore)       | [![last-commit](https://img.shields.io/github/last-commit/digego/extempore.svg)](https://github.com/digego/extempore)             | S    |        |
 | [Maru](https://www.piumarta.com/software/maru/)        | [![last-commit](https://img.shields.io/github/last-commit/attila-lendvai/maru.svg)](https://github.com/attila-lendvai/maru)       | B    |        |
 | [Liz](https://github.com/dundalek/liz)                 | [![last-commit](https://img.shields.io/github/last-commit/dundalek/liz.svg)](https://github.com/dundalek/liz)                     | A    |        |
-| [Lcc](https://github.com/saman-pasha/lcc)              | [![last-commit](https://img.shields.io/github/last-commit/saman-pasha/lcc.svg)](https://github.com/saman-pasha/lcc)               | A    |        |
 | [Toccata](https://github.com/Toccata-Lang/toccata)     | [![last-commit](https://img.shields.io/github/last-commit/Toccata-Lang/toccata.svg)](https://github.com/Toccata-Lang/toccata)     | C    |        |
+| [Lcc](https://github.com/saman-pasha/lcc)              | [![last-commit](https://img.shields.io/github/last-commit/saman-pasha/lcc.svg)](https://github.com/saman-pasha/lcc)               | A    |        |
 | [PicoLisp](https://picolisp.com)                       | [![last-commit](https://img.shields.io/github/last-commit/picolisp/picolisp.svg)](https://github.com/picolisp/picolisp)           | B    |        |
 | [Ferret](https://ferret-lang.org/)                     | [![last-commit](https://img.shields.io/github/last-commit/nakkaya/ferret.svg)](https://github.com/nakkaya/ferret)                 | C    |        |
 | [C-Mera](https://github.com/kiselgra/c-mera)           | [![last-commit](https://img.shields.io/github/last-commit/kiselgra/c-mera.svg)](https://github.com/kiselgra/c-mera)               | A    |        |
@@ -162,10 +163,10 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [ClojureScript](https://clojurescript.org/)                  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojurescript.svg)](https://github.com/clojure/clojurescript)           | C    |        |
 | [JACL](https://tailrecursion.com/JACL/)                      |                                                                                                                                           | L    |        |
 | [LIPS](https://lips.js.org)                                  | [![last-commit](https://img.shields.io/github/last-commit/jcubic/lips.svg)](https://github.com/jcubic/lips)                               | S    |        |
-| [Lumen](https://github.com/sctb/lumen)                       | [![last-commit](https://img.shields.io/github/last-commit/sctb/lumen.svg)](https://github.com/sctb/lumen)                                 | A    |        |
-| [JSLisp](https://www.jslisp.org)                             | [![last-commit](https://img.shields.io/github/last-commit/6502/JSLisp.svg)](https://github.com/6502/JSLisp)                               | L    |        |
 | [RacketScript](https://github.com/racketscript/racketscript) | [![last-commit](https://img.shields.io/github/last-commit/racketscript/racketscript.svg)](https://github.com/racketscript/racketscript)   | S    |        |
 | [Valtan](https://github.com/cxxxr/valtan)                    | [![last-commit](https://img.shields.io/github/last-commit/cxxxr/valtan.svg)](https://github.com/cxxxr/valtan)                             | L    |        |
+| [Lumen](https://github.com/sctb/lumen)                       | [![last-commit](https://img.shields.io/github/last-commit/sctb/lumen.svg)](https://github.com/sctb/lumen)                                 | A    |        |
+| [JSLisp](https://www.jslisp.org)                             | [![last-commit](https://img.shields.io/github/last-commit/6502/JSLisp.svg)](https://github.com/6502/JSLisp)                               | L    |        |
 | [eslisp](https://github.com/anko/eslisp)                     | [![last-commit](https://img.shields.io/github/last-commit/anko/eslisp.svg)](https://github.com/anko/eslisp)                               | A    |        |
 | [Parenscript](https://common-lisp.net/project/parenscript/)  | [![last-commit](https://img.shields.io/github/last-commit/ska80/parenscript.svg)](https://gitlab.common-lisp.net/parenscript/parenscript) | L    |        |
 | [Whalesong](https://www.hashcollision.org/whalesong/)        | [![last-commit](https://img.shields.io/github/last-commit/dyoo/whalesong.svg)](https://github.com/dyoo/whalesong)                         | S    |        |
