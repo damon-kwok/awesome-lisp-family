@@ -81,7 +81,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 |----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
 | [SBCL](http://www.sbcl.org)                        | [![last-commit](https://img.shields.io/github/last-commit/sbcl/sbcl.svg)](https://github.com/sbcl/sbcl)                           | L    |        |
 | [CLISP](https://clisp.sourceforge.io/)             | [![last-commit](https://img.shields.io/github/last-commit/roswell/clisp.svg)](https://github.com/roswell/clisp)                   | L    |        |
-| [Clozure CL](https://ccl.clozure.com/)             |                                                                                                                                   | L    |        |
+| [Clozure CL](https://ccl.clozure.com/)             | [![last-commit](https://img.shields.io/github/last-commit/Clozure/ccl.svg)](https://github.com/Clozure/ccl)                       | L    |        |
 | [Clasp](https://github.com/clasp-developers/clasp) | [![last-commit](https://img.shields.io/github/last-commit/clasp-developers/clasp.svg)](https://github.com/clasp-developers/clasp) | L    |        |
 | [ECL](https://common-lisp.net/project/ecl/)        | [![last-commit](https://badgen.net/gitlab/last-commit/embeddable-common-lisp/ecl?.svg)](https://gitlab.common-lisp.net/ecl/ecl)   | L    |        |
 
