@@ -63,7 +63,6 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 ### Multi Lang
 | Name                                                           | Active                                                                                                                          | Type | Target |
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/)           | [![last-commit](https://img.shields.io/github/last-commit/manuel-serrano/bigloo.svg)](https://github.com/manuel-serrano/bigloo) | S    | native |
 | [Lux](https://github.com/LuxLang/lux)                          | [![last-commit](https://img.shields.io/github/last-commit/LuxLang/lux.svg)](https://github.com/LuxLang/lux)                     | B    |        |
 | [Mal](https://github.com/kanaka/mal)                           | [![last-commit](https://img.shields.io/github/last-commit/kanaka/mal.svg)](https://github.com/kanaka/mal)                       | *1   |        |
 | [STELLA](https://www.isi.edu/isd/LOOM/Stella/index.html)       |                                                                                                                                 | ?    |        |
@@ -91,6 +90,7 @@ See list of [additional implementations](https://www.cliki.net/Common+Lisp+imple
 | Name                                                       | Active                                                                                                                                        | Type | Target |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------|--------|
 | [Racket](https://racket-lang.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/racket/racket.svg)](https://github.com/racket/racket)                               | S    |        |
+| [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/)       | [![last-commit](https://img.shields.io/github/last-commit/manuel-serrano/bigloo.svg)](https://github.com/manuel-serrano/bigloo)               | S    | native |
 | [Gambit](http://gambitscheme.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/gambit/gambit.svg)](https://github.com/gambit/gambit)                               | S    |        |
 | [Guile](https://www.gnu.org/software/guile/)               | [![last-commit](https://badgen.net/gitlab/last-commit/guile-git/guile-git?.svg)](https://gitlab.com/guile-git/guile-git)                      | S    |        |
 | [Loko Scheme](https://gitlab.com/weinholt/loko)            | [![last-commit](https://badgen.net/gitlab/last-commit/weinholt/loko?.svg)](https://gitlab.com/weinholt/loko)                                  | S    |        |
