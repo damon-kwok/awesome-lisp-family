@@ -103,16 +103,18 @@ See list of [additional implementations](https://www.cliki.net/Common+Lisp+imple
 | [CHICKEN Scheme](https://www.call-cc.org/)                 | [![last-commit](https://img.shields.io/github/last-commit/spurious/chicken-core-mirror.svg)](https://github.com/spurious/chicken-core-mirror) | S    |        |
 | [Cyclone](https://justinethier.github.io/cyclone/)         | [![last-commit](https://img.shields.io/github/last-commit/justinethier/cyclone.svg)](https://github.com/justinethier/cyclone)                 | S    |        |
 | [Microscheme](https://ryansuchocki.github.io/microscheme/) | [![last-commit](https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg)](https://github.com/ryansuchocki/microscheme)         | S    |        |
+| [Vicare](https://github.com/marcomaggi/vicare)             | [![last-commit](https://img.shields.io/github/last-commit/marcomaggi/vicare.svg)](https://github.com/marcomaggi/vicare)                       | S    |        |
+| [Ikarus](http://ikarus-scheme.org/)                        | [![last-commit](https://img.shields.io/github/last-commit/hyln9/ikarus.svg)](https://github.com/hyln9/ikarus)                                 | S    |        |
 
 See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations) and [benchmarks](https://ecraven.github.io/r7rs-benchmarks/).
 
 ### C/C++
 | Name                                                   | Active                                                                                                                            | Type | Target |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
 | [Janet](https://janet-lang.org/)                       | [![last-commit](https://img.shields.io/github/last-commit/janet-lang/janet.svg)](https://github.com/janet-lang/janet)             | B    |        |
 | [Carp](https://github.com/carp-lang/Carp)              | [![last-commit](https://img.shields.io/github/last-commit/carp-lang/Carp.svg)](https://github.com/carp-lang/Carp)                 | B    |        |
 | [Cakelisp](https://github.com/makuto/cakelisp)         | [![last-commit](https://img.shields.io/github/last-commit/makuto/cakelisp.svg)](https://github.com/makuto/cakelisp)               | A    |        |
+| [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
 | [Dale](https://github.com/tomhrr/dale)                 | [![last-commit](https://img.shields.io/github/last-commit/tomhrr/dale.svg)](https://github.com/tomhrr/dale)                       | B    |        |
 | [Extempore](https://github.com/digego/extempore)       | [![last-commit](https://img.shields.io/github/last-commit/digego/extempore.svg)](https://github.com/digego/extempore)             | S    |        |
 | [Maru](https://www.piumarta.com/software/maru/)        | [![last-commit](https://img.shields.io/github/last-commit/attila-lendvai/maru.svg)](https://github.com/attila-lendvai/maru)       | B    |        |
