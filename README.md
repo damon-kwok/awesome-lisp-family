@@ -103,10 +103,12 @@ See list of [additional implementations](https://www.cliki.net/Common+Lisp+imple
 | [CHICKEN Scheme](https://www.call-cc.org/)                 | [![last-commit](https://img.shields.io/github/last-commit/spurious/chicken-core-mirror.svg)](https://github.com/spurious/chicken-core-mirror) | S    |        |
 | [Cyclone](https://justinethier.github.io/cyclone/)         | [![last-commit](https://img.shields.io/github/last-commit/justinethier/cyclone.svg)](https://github.com/justinethier/cyclone)                 | S    |        |
 | [Microscheme](https://ryansuchocki.github.io/microscheme/) | [![last-commit](https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg)](https://github.com/ryansuchocki/microscheme)         | S    |        |
-| [Vicare](https://github.com/marcomaggi/vicare)             | [![last-commit](https://img.shields.io/github/last-commit/marcomaggi/vicare.svg)](https://github.com/marcomaggi/vicare)                       | S    |        |
-| [Ikarus](http://ikarus-scheme.org/)                        | [![last-commit](https://img.shields.io/github/last-commit/hyln9/ikarus.svg)](https://github.com/hyln9/ikarus)                                 | S    |        |
+| [Vicare](https://marcomaggi.github.io/vicare.html)         | [![last-commit](https://img.shields.io/github/last-commit/marcomaggi/vicare.svg)](https://github.com/marcomaggi/vicare)                       | S    |        |
+| [Ikarus](https://launchpad.net/ikarus)                     | [![last-commit](https://img.shields.io/github/last-commit/hyln9/ikarus.svg)](https://github.com/hyln9/ikarus)                                 | S    |        |
 
 See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations) and [benchmarks](https://ecraven.github.io/r7rs-benchmarks/).
+
+[The Development of Chez Scheme](https://legacy.cs.indiana.edu/~dyb/pubs/hocs.pdf)
 
 ### C/C++
 | Name                                                   | Active                                                                                                                            | Type | Target |
