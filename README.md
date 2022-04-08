@@ -88,15 +88,15 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
 
 ### Scheme
-| Name                                                       | Active                                                                                                                                | Type | Target |
-|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Chez Scheme](https://www.scheme.com/)                     | [![last-commit](https://img.shields.io/github/last-commit/cisco/ChezScheme.svg)](https://github.com/cisco/ChezScheme)                 | S    |        |
-| [Chicken Scheme](https://www.call-cc.org/)                 |                                                                                                                                       | S    |        |
-| [Guile](https://www.gnu.org/software/guile/)               | [![last-commit](https://badgen.net/gitlab/last-commit/guile-git/guile-git?.svg)](https://gitlab.com/guile-git/guile-git)              | S    |        |
-| [Racket](https://racket-lang.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/racket/racket.svg)](https://github.com/racket/racket)                       | S    |        |
-| [Cyclone](https://justinethier.github.io/cyclone/)         | [![last-commit](https://img.shields.io/github/last-commit/justinethier/cyclone.svg)](https://github.com/justinethier/cyclone)         | S    |        |
-| [Microscheme](https://ryansuchocki.github.io/microscheme/) | [![last-commit](https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg)](https://github.com/ryansuchocki/microscheme) | S    |        |
-| [Loko Scheme](https://gitlab.com/weinholt/loko)            | [![last-commit](https://badgen.net/gitlab/last-commit/weinholt/loko?.svg)](https://gitlab.com/weinholt/loko)                          | S    |        |
+| Name                                                       | Active                                                                                                                                        | Type | Target |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Chez Scheme](https://www.scheme.com/)                     | [![last-commit](https://img.shields.io/github/last-commit/cisco/ChezScheme.svg)](https://github.com/cisco/ChezScheme)                         | S    |        |
+| [ChICKEN Scheme](https://www.call-cc.org/)                 | [![last-commit](https://img.shields.io/github/last-commit/spurious/chicken-core-mirror.svg)](https://github.com/spurious/chicken-core-mirror) | S    |        |
+| [Guile](https://www.gnu.org/software/guile/)               | [![last-commit](https://badgen.net/gitlab/last-commit/guile-git/guile-git?.svg)](https://gitlab.com/guile-git/guile-git)                      | S    |        |
+| [Racket](https://racket-lang.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/racket/racket.svg)](https://github.com/racket/racket)                               | S    |        |
+| [Cyclone](https://justinethier.github.io/cyclone/)         | [![last-commit](https://img.shields.io/github/last-commit/justinethier/cyclone.svg)](https://github.com/justinethier/cyclone)                 | S    |        |
+| [Microscheme](https://ryansuchocki.github.io/microscheme/) | [![last-commit](https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg)](https://github.com/ryansuchocki/microscheme)         | S    |        |
+| [Loko Scheme](https://gitlab.com/weinholt/loko)            | [![last-commit](https://badgen.net/gitlab/last-commit/weinholt/loko?.svg)](https://gitlab.com/weinholt/loko)                                  | S    |        |
 
 See list of [additional implementations](http://community.schemewiki.org/?scheme-faq-standards#implementations) and [benchmarks](https://ecraven.github.io/r7rs-benchmarks/).
 
