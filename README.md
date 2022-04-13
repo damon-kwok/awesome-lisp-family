@@ -113,11 +113,11 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### C/C++
 | Name                                                   | Active                                                                                                                            | Type | Target |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Janet](https://janet-lang.org/)                       | [![last-commit](https://img.shields.io/github/last-commit/janet-lang/janet.svg)](https://github.com/janet-lang/janet)             | B    |        |
 | [Carp](https://github.com/carp-lang/Carp)              | [![last-commit](https://img.shields.io/github/last-commit/carp-lang/Carp.svg)](https://github.com/carp-lang/Carp)                 | B    |        |
+| [Janet](https://janet-lang.org/)                       | [![last-commit](https://img.shields.io/github/last-commit/janet-lang/janet.svg)](https://github.com/janet-lang/janet)             | B    |        |
 | [Cakelisp](https://github.com/makuto/cakelisp)         | [![last-commit](https://img.shields.io/github/last-commit/makuto/cakelisp.svg)](https://github.com/makuto/cakelisp)               | A    |        |
-| [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
 | [Dale](https://github.com/tomhrr/dale)                 | [![last-commit](https://img.shields.io/github/last-commit/tomhrr/dale.svg)](https://github.com/tomhrr/dale)                       | B    |        |
+| [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
 | [Extempore](https://github.com/digego/extempore)       | [![last-commit](https://img.shields.io/github/last-commit/digego/extempore.svg)](https://github.com/digego/extempore)             | S    |        |
 | [Maru](https://www.piumarta.com/software/maru/)        | [![last-commit](https://img.shields.io/github/last-commit/attila-lendvai/maru.svg)](https://github.com/attila-lendvai/maru)       | B    |        |
 | [Liz](https://github.com/dundalek/liz)                 | [![last-commit](https://img.shields.io/github/last-commit/dundalek/liz.svg)](https://github.com/dundalek/liz)                     | A    |        |
@@ -138,9 +138,9 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### Erlang
 | Name                                                    | Active                                                                                                                 | Type | Target |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Clojerl](https://github.com/clojerl/clojerl)           | [![last-commit](https://img.shields.io/github/last-commit/clojerl/clojerl.svg)](https://github.com/clojerl/clojerl)    | C    |        |
 | [Lisp Flavored Erlang](http://lfe.io/)                  | [![last-commit](https://img.shields.io/github/last-commit/lfe/lfe.svg)](https://github.com/lfe/lfe)                    | A2   |        |
 | [Joxa](http://joxa.org/)                                | [![last-commit](https://img.shields.io/github/last-commit/lfe/lfe.svg)](https://github.com/joxa/joxa)                  | A1   |        |
+| [Clojerl](https://github.com/clojerl/clojerl)           | [![last-commit](https://img.shields.io/github/last-commit/clojerl/clojerl.svg)](https://github.com/clojerl/clojerl)    | C    |        |
 | [Kapok](http://kapok-lang.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/kapok-lang/kapok.svg)](https://github.com/kapok-lang/kapok)  | C    |        |
 | [scm](http://the-concurrent-schemer.github.io/scm-doc/) | [![last-commit](https://img.shields.io/github/last-commit/the-concurrent-schemer/scm.svg)](the-concurrent-schemer/scm) | S    |        |
 
@@ -179,8 +179,8 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [JSLisp](https://www.jslisp.org)                             | [![last-commit](https://img.shields.io/github/last-commit/6502/JSLisp.svg)](https://github.com/6502/JSLisp)                               | L    |        |
 | [eslisp](https://github.com/anko/eslisp)                     | [![last-commit](https://img.shields.io/github/last-commit/anko/eslisp.svg)](https://github.com/anko/eslisp)                               | A    |        |
 | [Parenscript](https://common-lisp.net/project/parenscript/)  | [![last-commit](https://img.shields.io/github/last-commit/ska80/parenscript.svg)](https://gitlab.common-lisp.net/parenscript/parenscript) | L    |        |
-| [Whalesong](https://www.hashcollision.org/whalesong/)        | [![last-commit](https://img.shields.io/github/last-commit/dyoo/whalesong.svg)](https://github.com/dyoo/whalesong)                         | S    |        |
 | [Wisp](https://github.com/Gozala/wisp)                       | [![last-commit](https://img.shields.io/github/last-commit/Gozala/wisp.svg)](https://github.com/Gozala/wisp)                               | C    |        |
+| [Whalesong](https://www.hashcollision.org/whalesong/)        | [![last-commit](https://img.shields.io/github/last-commit/dyoo/whalesong.svg)](https://github.com/dyoo/whalesong)                         | S    |        |
 
 ### Julia
 | Name                                                     | Active                                                                                                                        | Type | Target |
