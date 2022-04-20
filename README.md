@@ -131,9 +131,9 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### C#
 | Name                                                   | Active                                                                                                                          | Type | Target |
 |--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Clojure CLR](https://github.com/clojure/clojure-clr)  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojure-clr.svg)](https://github.com/clojure/clojure-clr)     | C    |        |
+| [Clojure-CLR](https://github.com/clojure/clojure-clr)  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojure-clr.svg)](https://github.com/clojure/clojure-clr)     | C    |        |
 | [IronScheme](https://github.com/IronScheme/IronScheme) | [![last-commit](https://img.shields.io/github/last-commit/IronScheme/IronScheme.svg)](https://github.com/IronScheme/IronScheme) | S    |        |
-| [Arcadia](arcadia-unity.github.io/)                    | [![last-commit](https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg)](https://github.com/arcadia-unity/Arcadia) | C    |        |
+| [Arcadia](https://arcadia-unity.github.io/)            | [![last-commit](https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg)](https://github.com/arcadia-unity/Arcadia) | C    |        |
 
 ### Erlang
 | Name                                                    | Active                                                                                                                 | Type | Target |
