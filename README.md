@@ -43,6 +43,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Erlang](#erlang)
 - [Fortran](#fortran)
 - [Go](#go)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -113,7 +114,6 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### C/C++
 | Name                                                   | Active                                                                                                                            | Type | Target |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [Carp](https://github.com/carp-lang/Carp)              | [![last-commit](https://img.shields.io/github/last-commit/carp-lang/Carp.svg)](https://github.com/carp-lang/Carp)                 | B    |        |
 | [Janet](https://janet-lang.org/)                       | [![last-commit](https://img.shields.io/github/last-commit/janet-lang/janet.svg)](https://github.com/janet-lang/janet)             | B    |        |
 | [Cakelisp](https://github.com/makuto/cakelisp)         | [![last-commit](https://img.shields.io/github/last-commit/makuto/cakelisp.svg)](https://github.com/makuto/cakelisp)               | A    |        |
 | [Dale](https://github.com/tomhrr/dale)                 | [![last-commit](https://img.shields.io/github/last-commit/tomhrr/dale.svg)](https://github.com/tomhrr/dale)                       | B    |        |
@@ -156,6 +156,11 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Joker](https://joker-lang.org/)             | [![last-commit](https://img.shields.io/github/last-commit/candid82/joker.svg)](https://github.com/candid82/joker)       | C    |        |
 | [Zygo](https://github.com/glycerine/zygomys) | [![last-commit](https://img.shields.io/github/last-commit/glycerine/zygomys.svg)](https://github.com/glycerine/zygomys) | B    |        |
 | [ZYLISP](https://github.com/zylisp/zylisp)   | [![last-commit](https://img.shields.io/github/last-commit/zylisp/zylisp.svg)](https://github.com/zylisp/zylisp)         | A    |        |
+
+### Haskell
+| Name                                                   | Active                                                                                                                            | Type | Target |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Carp](https://github.com/carp-lang/Carp)              | [![last-commit](https://img.shields.io/github/last-commit/carp-lang/Carp.svg)](https://github.com/carp-lang/Carp)                 | B    |        |
 
 ### Java
 | Name                                                   | Active                                                                                                                  | Type | Target |
