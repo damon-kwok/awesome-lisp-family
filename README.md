@@ -40,6 +40,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Scheme](#scheme)
 - [C/C++](#cc)
 - [C#](#c)
+- [Elm](#elm)
 - [Erlang](#erlang)
 - [Fortran](#fortran)
 - [Go](#go)
@@ -134,6 +135,11 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Clojure-CLR](https://github.com/clojure/clojure-clr)  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojure-clr.svg)](https://github.com/clojure/clojure-clr)     | C    |        |
 | [IronScheme](https://github.com/IronScheme/IronScheme) | [![last-commit](https://img.shields.io/github/last-commit/IronScheme/IronScheme.svg)](https://github.com/IronScheme/IronScheme) | S    |        |
 | [Arcadia](https://arcadia-unity.github.io/)            | [![last-commit](https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg)](https://github.com/arcadia-unity/Arcadia) | C    |        |
+
+### Elm
+| Name                                               | Active                                                                                                                    | Type | Target |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Enclojure](https://github.com/temochka/enclojure) | [![last-commit](https://img.shields.io/github/last-commit/temochka/enclojure.svg)](https://github.com/temochka/enclojure) | C    |        |
 
 ### Erlang
 | Name                                                    | Active                                                                                                                 | Type | Target |
