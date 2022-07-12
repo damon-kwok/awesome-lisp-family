@@ -85,6 +85,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 | [ECL](https://common-lisp.net/project/ecl/)        | [![last-commit](https://badgen.net/gitlab/last-commit/embeddable-common-lisp/ecl?.svg)](https://gitlab.common-lisp.net/ecl/ecl)   | L    |        |
 | [CLISP](https://clisp.sourceforge.io/)             | [![last-commit](https://img.shields.io/github/last-commit/roswell/clisp.svg)](https://github.com/roswell/clisp)                   | L    |        |
 | [Clozure CL](https://ccl.clozure.com/)             | [![last-commit](https://img.shields.io/github/last-commit/Clozure/ccl.svg)](https://github.com/Clozure/ccl)                       | L    |        |
+| [Coalton](https://coalton-lang.github.io/)         | [![last-commit](https://img.shields.io/github/last-commit/coalton-lang/coalton.svg)](https://github.com/coalton-lang/coalton)     | L    |        |
 
 See list of [additional implementations](https://www.cliki.net/Common+Lisp+implementation).
 
@@ -102,6 +103,7 @@ See list of [additional implementations](https://www.cliki.net/Common+Lisp+imple
 | [Loko Scheme](https://gitlab.com/weinholt/loko)            | [![last-commit](https://badgen.net/gitlab/last-commit/weinholt/loko?.svg)](https://gitlab.com/weinholt/loko)                                  | S    |        |
 | [Cisco Chez](https://www.scheme.com/)                      | [![last-commit](https://img.shields.io/github/last-commit/cisco/ChezScheme.svg)](https://github.com/cisco/ChezScheme)                         | S    |        |
 | [Racket Chez](https://github.com/racket/ChezScheme)        | [![last-commit](https://img.shields.io/github/last-commit/racket/ChezScheme.svg)](https://github.com/racket/ChezScheme)                       | S    |        |
+| [Rabbit](https://github.com/udem-dlteam/ribbit)            | [![last-commit](https://img.shields.io/github/last-commit/udem-dlteam/ribbit.svg)](https://github.com/udem-dlteam/ribbit)                     | S    |        |
 | [CHICKEN Scheme](https://www.call-cc.org/)                 | [![last-commit](https://img.shields.io/github/last-commit/spurious/chicken-core-mirror.svg)](https://github.com/spurious/chicken-core-mirror) | S    |        |
 | [Cyclone](https://justinethier.github.io/cyclone/)         | [![last-commit](https://img.shields.io/github/last-commit/justinethier/cyclone.svg)](https://github.com/justinethier/cyclone)                 | S    |        |
 | [Microscheme](https://ryansuchocki.github.io/microscheme/) | [![last-commit](https://img.shields.io/github/last-commit/ryansuchocki/microscheme.svg)](https://github.com/ryansuchocki/microscheme)         | S    |        |
@@ -119,6 +121,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Cakelisp](https://github.com/makuto/cakelisp)         | [![last-commit](https://img.shields.io/github/last-commit/makuto/cakelisp.svg)](https://github.com/makuto/cakelisp)               | A    |        |
 | [Dale](https://github.com/tomhrr/dale)                 | [![last-commit](https://img.shields.io/github/last-commit/tomhrr/dale.svg)](https://github.com/tomhrr/dale)                       | B    |        |
 | [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
+| [jo_clojure](https://gitlab.com/Zelex/jo_clojure)      | [![last-commit](https://badgen.net/gitlab/last-commit/Zelex/jo_clojure?.svg)](https://gitlab.com/Zelex/jo_clojure)                | C    |        |
 | [Extempore](https://github.com/digego/extempore)       | [![last-commit](https://img.shields.io/github/last-commit/digego/extempore.svg)](https://github.com/digego/extempore)             | S    |        |
 | [Maru](https://www.piumarta.com/software/maru/)        | [![last-commit](https://img.shields.io/github/last-commit/attila-lendvai/maru.svg)](https://github.com/attila-lendvai/maru)       | B    |        |
 | [Liz](https://github.com/dundalek/liz)                 | [![last-commit](https://img.shields.io/github/last-commit/dundalek/liz.svg)](https://github.com/dundalek/liz)                     | A    |        |
@@ -160,6 +163,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | Name                                         | Active                                                                                                                  | Type | Target |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------|--------|
 | [Joker](https://joker-lang.org/)             | [![last-commit](https://img.shields.io/github/last-commit/candid82/joker.svg)](https://github.com/candid82/joker)       | C    |        |
+| [Slick](https://github.com/pcostanza/slick)  | [![last-commit](https://img.shields.io/github/last-commit/pcostanza/slick.svg)](https://github.com/pcostanza/slick)     | L    |        |
 | [Zygo](https://github.com/glycerine/zygomys) | [![last-commit](https://img.shields.io/github/last-commit/glycerine/zygomys.svg)](https://github.com/glycerine/zygomys) | B    |        |
 | [ZYLISP](https://github.com/zylisp/zylisp)   | [![last-commit](https://img.shields.io/github/last-commit/zylisp/zylisp.svg)](https://github.com/zylisp/zylisp)         | A    |        |
 
@@ -263,12 +267,14 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
 | [Liz](https://github.com/dundalek/liz)                     | [![last-commit](https://img.shields.io/github/last-commit/dundalek/liz.svg)](https://github.com/dundalek/liz)                     | A    |        |
 | [Schism](https://github.com/google/schism)                 | [![last-commit](https://img.shields.io/github/last-commit/google/schism.svg)](https://github.com/google/schism)                   | S    |        |
+| [WASM Scheme](https://github.com/PollRobots/scheme)        | [![last-commit](https://img.shields.io/github/last-commit/PollRobots/scheme.svg)](https://github.com/PollRobots/scheme)           | S    |        |
 | [clj-wasm](https://github.com/roman01la/clj-wasm)          | [![last-commit](https://img.shields.io/github/last-commit/roman01la/clj-wasm.svg)](https://github.com/roman01la/clj-wasm)         | A    |        |
 | [Arboreta WASM](https://github.com/Arboreta/arboreta-wasm) | [![last-commit](https://img.shields.io/github/last-commit/Arboreta/arboreta-wasm.svg)](https://github.com/Arboreta/arboreta-wasm) | ?    |        |
 
 ## Misc
 
 - [Bel](http://paulgraham.com/bel.html) - self-hosted lisp dialect, see also markdown formatted [mirror](https://github.com/alephyud/bel)
+  - [Bel Clojure](https://github.com/stopachka/bel-clojure) - implementation in Clojure, includes continuations, Java numbers and strings, read [blog post](https://stopa.io/post/290)
   - [Language::Bel](https://github.com/masak/bel) - implementation of Bel in Perl 5, includes extensive test suite
   - [Chime](https://github.com/jeremyschlatter/chime/) - implementation of Bel written in Haskell
   - [Babybel](https://github.com/cookrn/babybel) - Ruby implementation of Bel
