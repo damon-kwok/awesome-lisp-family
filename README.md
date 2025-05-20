@@ -40,6 +40,7 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Scheme](#scheme)
 - [C/C++](#cc)
 - [C#](#c)
+- [Dart](#dart)
 - [Elm](#elm)
 - [Erlang](#erlang)
 - [Fortran](#fortran)
@@ -118,6 +119,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | Name                                                   | Active                                                                                                                            | Type | Target |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
 | [Janet](https://janet-lang.org/)                       | [![last-commit](https://img.shields.io/github/last-commit/janet-lang/janet.svg)](https://github.com/janet-lang/janet)             | B    |        |
+| [Jank](https://jank-lang.org/)                         | [![last-commit](https://img.shields.io/github/last-commit/jank-lang/jank.svg)](https://github.com/jank-lang/jank)                 | C    |        |
 | [Cakelisp](https://github.com/makuto/cakelisp)         | [![last-commit](https://img.shields.io/github/last-commit/makuto/cakelisp.svg)](https://github.com/makuto/cakelisp)               | A    |        |
 | [Dale](https://github.com/tomhrr/dale)                 | [![last-commit](https://img.shields.io/github/last-commit/tomhrr/dale.svg)](https://github.com/tomhrr/dale)                       | B    |        |
 | [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
@@ -138,6 +140,11 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Clojure-CLR](https://github.com/clojure/clojure-clr)  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojure-clr.svg)](https://github.com/clojure/clojure-clr)     | C    |        |
 | [IronScheme](https://github.com/IronScheme/IronScheme) | [![last-commit](https://img.shields.io/github/last-commit/IronScheme/IronScheme.svg)](https://github.com/IronScheme/IronScheme) | S    |        |
 | [Arcadia](https://arcadia-unity.github.io/)            | [![last-commit](https://img.shields.io/github/last-commit/arcadia-unity/Arcadia.svg)](https://github.com/arcadia-unity/Arcadia) | C    |        |
+
+### Dart
+| Name                                                      | Active                                                                                                                               | Type | Target |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Clojure-CLR](https://github.com/Tensegritics/ClojureDart)| [![last-commit](https://img.shields.io/github/last-commit/Tensegritics/ClojureDart.svg)](https://github.com/Tensegritics/ClojureDart)| C    |        |
 
 ### Elm
 | Name                                               | Active                                                                                                                    | Type | Target |
@@ -175,6 +182,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### Java
 | Name                                                   | Active                                                                                                                  | Type | Target |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Venice](https://github.com/jlangch/venice)            | [![last-commit](https://img.shields.io/github/last-commit/jlangch/venice.svg)](https://github.com/jlangch/venice)       | C    |        |
 | [ABCL](https://common-lisp.net/project/armedbear/)     | [![last-commit](https://img.shields.io/github/last-commit/armedbear/abcl.svg)](https://github.com/armedbear/abcl)       | L    |        |
 | [Clojure](https://clojure.org/)                        | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojure.svg)](https://github.com/clojure/clojure)     | C    |        |
 | [Kawa](https://www.gnu.org/software/kawa/)             | [![last-commit](https://badgen.net/gitlab/last-commit/kashell/Kawa?.svg)](https://gitlab.com/kashell/Kawa)              | S    |        |
@@ -184,16 +192,17 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### JavaScript
 | Name                                                         | Active                                                                                                                                    | Type | Target |
 |--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------|--------|
-| [BiwaScheme](https://www.biwascheme.org/)                    | [![last-commit](https://img.shields.io/github/last-commit/biwascheme/biwascheme.svg)](https://github.com/biwascheme/biwascheme)           | S    |        |
 | [ClojureScript](https://clojurescript.org/)                  | [![last-commit](https://img.shields.io/github/last-commit/clojure/clojurescript.svg)](https://github.com/clojure/clojurescript)           | C    |        |
+| [Squnit](https://squint-cljs.github.io/squint/)              | [![last-commit](https://img.shields.io/github/last-commit/squint-cljs/squint.svg)](https://github.com/squint-cljs/squint)                 | C    |        |
+| [BiwaScheme](https://www.biwascheme.org/)                    | [![last-commit](https://img.shields.io/github/last-commit/biwascheme/biwascheme.svg)](https://github.com/biwascheme/biwascheme)           | S    |        |
 | [JACL](https://tailrecursion.com/JACL/)                      |                                                                                                                                           | L    |        |
 | [LIPS](https://lips.js.org)                                  | [![last-commit](https://img.shields.io/github/last-commit/jcubic/lips.svg)](https://github.com/jcubic/lips)                               | S    |        |
-| [RacketScript](https://github.com/racketscript/racketscript) | [![last-commit](https://img.shields.io/github/last-commit/racketscript/racketscript.svg)](https://github.com/racketscript/racketscript)   | S    |        |
 | [Valtan](https://github.com/cxxxr/valtan)                    | [![last-commit](https://img.shields.io/github/last-commit/cxxxr/valtan.svg)](https://github.com/cxxxr/valtan)                             | L    |        |
 | [Lumen](https://github.com/sctb/lumen)                       | [![last-commit](https://img.shields.io/github/last-commit/sctb/lumen.svg)](https://github.com/sctb/lumen)                                 | A    |        |
 | [JSLisp](https://www.jslisp.org)                             | [![last-commit](https://img.shields.io/github/last-commit/6502/JSLisp.svg)](https://github.com/6502/JSLisp)                               | L    |        |
-| [eslisp](https://github.com/anko/eslisp)                     | [![last-commit](https://img.shields.io/github/last-commit/anko/eslisp.svg)](https://github.com/anko/eslisp)                               | A    |        |
 | [Pocket lisp](https://maxinteger.github.io/pocket-lisp-page/)| [![last-commit](https://img.shields.io/github/last-commit/maxinteger/pocket-lisp.svg)](https://github.com/maxinteger/pocket-lisp)         | C    |        |
+| [RacketScript](https://github.com/racketscript/racketscript) | [![last-commit](https://img.shields.io/github/last-commit/racketscript/racketscript.svg)](https://github.com/racketscript/racketscript)   | S    |        |
+| [eslisp](https://github.com/anko/eslisp)                     | [![last-commit](https://img.shields.io/github/last-commit/anko/eslisp.svg)](https://github.com/anko/eslisp)                               | A    |        |
 | [Parenscript](https://common-lisp.net/project/parenscript/)  | [![last-commit](https://img.shields.io/github/last-commit/ska80/parenscript.svg)](https://gitlab.common-lisp.net/parenscript/parenscript) | L    |        |
 | [Wisp](https://github.com/Gozala/wisp)                       | [![last-commit](https://img.shields.io/github/last-commit/Gozala/wisp.svg)](https://github.com/Gozala/wisp)                               | C    |        |
 | [Whalesong](https://www.hashcollision.org/whalesong/)        | [![last-commit](https://img.shields.io/github/last-commit/dyoo/whalesong.svg)](https://github.com/dyoo/whalesong)                         | S    |        |
@@ -232,11 +241,12 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Phel](https://phel-lang.org/) | [![last-commit](https://img.shields.io/github/last-commit/phel-lang/phel-lang.svg)](https://github.com/phel-lang/phel-lang) | C    |        |
 
 ### Python
-| Name                                         | Active                                                                                                                | Type  | Target |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------|--------|
-| [Hy](https://github.com/hylang/hy)           | [![last-commit](https://img.shields.io/github/last-commit/hylang/hy.svg)](https://github.com/hylang/hy)               | A1+C* |        |
-| [Hissp](https://github.com/gilch/hissp)      | [![last-commit](https://img.shields.io/github/last-commit/gilch/hissp.svg)](https://github.com/gilch/hissp)           | A     |        |
-| [Pixie](https://github.com/pixie-lang/pixie) | [![last-commit](https://img.shields.io/github/last-commit/pixie-lang/pixie.svg)](https://github.com/pixie-lang/pixie) | B     |        |
+| Name                                                  | Active                                                                                                                           | Type  | Target |
+|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------|--------|
+| [basilisp](https://basilisp.readthedocs.io/en/latest/)| [![last-commit](https://img.shields.io/github/last-commit/basilisp-lang/basilisp.svg)](https://github.com/basilisp-lang/basilisp)| C     |        |
+| [Hy](https://github.com/hylang/hy)                    | [![last-commit](https://img.shields.io/github/last-commit/hylang/hy.svg)](https://github.com/hylang/hy)                          | A1+C* |        |
+| [Hissp](https://github.com/gilch/hissp)               | [![last-commit](https://img.shields.io/github/last-commit/gilch/hissp.svg)](https://github.com/gilch/hissp)                      | A     |        |
+| [Pixie](https://github.com/pixie-lang/pixie)          | [![last-commit](https://img.shields.io/github/last-commit/pixie-lang/pixie.svg)](https://github.com/pixie-lang/pixie)            | B     |        |
 
 ### R
 | Name                                         | Active                                                                                                                    | Type | Target |
@@ -246,6 +256,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### Rust
 | Name                                                 | Active                                                                                                                          | Type | Target |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Steel](https://github.com/mattwparas/steel)         | [![last-commit](https://img.shields.io/github/last-commit/mattwparas/steel.svg)](https://github.com/mattwparas/steel)           | S    |        |
 | [GameLisp](https://gamelisp.rs)                      | [![last-commit](https://img.shields.io/github/last-commit/fleabitdev/glsp.svg)](https://github.com/fleabitdev/glsp)             | B    |        |
 | [ClojureRS](https://github.com/clojure-rs/ClojureRS) | [![last-commit](https://img.shields.io/github/last-commit/clojure-rs/ClojureRS.svg)](https://github.com/clojure-rs/ClojureRS)   | C    |        |
 | [BLisp](https://ytakano.github.io/blisp/)            | [![last-commit](https://img.shields.io/github/last-commit/ytakano/blisp.svg)](https://github.com/ytakano/blisp)                 | B    |        |
@@ -266,6 +277,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 ### WASM
 | Name                                                       | Active                                                                                                                            | Type | Target |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|--------|
+| [Hoot](https://spritely.institute/hoot/)                   | [![last-commit](https://img.shields.io/codeberge/last-commit/spritely/hoot.svg)](https://codeberg.org/spritely/hoot)              | S    |        |
 | [Liz](https://github.com/dundalek/liz)                     | [![last-commit](https://img.shields.io/github/last-commit/dundalek/liz.svg)](https://github.com/dundalek/liz)                     | A    |        |
 | [Schism](https://github.com/google/schism)                 | [![last-commit](https://img.shields.io/github/last-commit/google/schism.svg)](https://github.com/google/schism)                   | S    |        |
 | [WASM Scheme](https://github.com/PollRobots/scheme)        | [![last-commit](https://img.shields.io/github/last-commit/PollRobots/scheme.svg)](https://github.com/PollRobots/scheme)           | S    |        |
