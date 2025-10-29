@@ -123,7 +123,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | [Cakelisp](https://github.com/makuto/cakelisp)         | [![last-commit](https://img.shields.io/github/last-commit/makuto/cakelisp.svg)](https://github.com/makuto/cakelisp)               | A    |        |
 | [Dale](https://github.com/tomhrr/dale)                 | [![last-commit](https://img.shields.io/github/last-commit/tomhrr/dale.svg)](https://github.com/tomhrr/dale)                       | B    |        |
 | [Owl Lisp](https://gitlab.com/owl-lisp/owl)            | [![last-commit](https://badgen.net/gitlab/last-commit/owl-lisp/owl?.svg)](https://gitlab.com/owl-lisp/owl)                        | S    |        |
-| [jo_clojure](https://gitlab.com/Zelex/jo_clojure)      | [![last-commit](https://badgen.net/gitlab/last-commit/Zelex/jo_clojure?.svg)](https://gitlab.com/Zelex/jo_clojure)                | C    |        |
+| [jo_clojure](https://github.com/Zelex/jo_clojure)      | [![last-commit](https://img.shields.io/github/last-commit/Zelex/jo_clojure?.svg)](https://github.com/Zelex/jo_clojure)            | C    |        |
 | [Extempore](https://github.com/digego/extempore)       | [![last-commit](https://img.shields.io/github/last-commit/digego/extempore.svg)](https://github.com/digego/extempore)             | S    |        |
 | [Maru](https://www.piumarta.com/software/maru/)        | [![last-commit](https://img.shields.io/github/last-commit/attila-lendvai/maru.svg)](https://github.com/attila-lendvai/maru)       | B    |        |
 | [Liz](https://github.com/dundalek/liz)                 | [![last-commit](https://img.shields.io/github/last-commit/dundalek/liz.svg)](https://github.com/dundalek/liz)                     | A    |        |
