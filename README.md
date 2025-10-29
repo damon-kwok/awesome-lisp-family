@@ -170,6 +170,7 @@ See list of [additional implementations](http://community.schemewiki.org/?scheme
 | Name                                         | Active                                                                                                                  | Type | Target |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------|--------|
 | [Joker](https://joker-lang.org/)             | [![last-commit](https://img.shields.io/github/last-commit/candid82/joker.svg)](https://github.com/candid82/joker)       | C    |        |
+| [Glojure](https://github.com/glojurelang/glojure)             | [![last-commit](https://img.shields.io/github/last-commit/glojurelang/glojure.svg)](https://github.com/glojurelang/glojure)       | C    |        |
 | [Slick](https://github.com/pcostanza/slick)  | [![last-commit](https://img.shields.io/github/last-commit/pcostanza/slick.svg)](https://github.com/pcostanza/slick)     | L    |        |
 | [Zygo](https://github.com/glycerine/zygomys) | [![last-commit](https://img.shields.io/github/last-commit/glycerine/zygomys.svg)](https://github.com/glycerine/zygomys) | B    |        |
 | [ZYLISP](https://github.com/zylisp/zylisp)   | [![last-commit](https://img.shields.io/github/last-commit/zylisp/zylisp.svg)](https://github.com/zylisp/zylisp)         | A    |        |
